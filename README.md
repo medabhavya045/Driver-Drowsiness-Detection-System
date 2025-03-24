@@ -39,16 +39,6 @@ The provided code implements a driver drowsiness detection system using computer
 ## Execution:
 Run the code either using jupyter or python framework
 
-To run the code 
-```bash
-python drowsiness.py
-```
-
-##### Made By P.V.Karthikeya
-##### KL University
-##### Email:2100039067cse.r@gmail.com
-##### Phone:7815982634
-
 
 
 
